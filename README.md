@@ -1,0 +1,2 @@
+# Config
+Konas CA config
